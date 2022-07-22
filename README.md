@@ -1,1 +1,1 @@
-#CRUD com angular e backend "estático" em json.
+#CRUD simples em angular e springboot 
